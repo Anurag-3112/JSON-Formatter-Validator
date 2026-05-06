@@ -3,10 +3,12 @@
 ## Description
 A lightweight web application that formats and validates JSON data. It helps developers quickly detect errors and convert raw JSON into a clean, readable structure.
 
-## 📷 Screenshots
-
+## Screenshots
+### Main
 ![Screenshot 1](assets/image1.png)
+### Valid JSON
 ![Screenshot 2](assets/image2.png)
+### InValid JSON
 ![Screenshot 3](assets/image3.png)
 
 ## Features
