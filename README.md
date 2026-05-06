@@ -7,6 +7,7 @@ A lightweight web application that formats and validates JSON data. It helps dev
 
 ![Screenshot 1](assets/image1.png)
 ![Screenshot 2](assets/image2.png)
+![Screenshot 3](assets/image3.png)
 
 ## Features
 - Format JSON with proper indentation
