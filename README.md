@@ -1,4 +1,4 @@
-# 🧾 JSON Formatter & Validator
+# JSON Formatter & Validator
 
 ## Description
 A lightweight web application that formats and validates JSON data. It helps developers quickly detect errors and convert raw JSON into a clean, readable structure.
