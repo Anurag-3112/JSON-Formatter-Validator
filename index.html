@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>JSON Formatter</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="container">
+    <h2>JSON Formatter</h2>
+    <div class="box">
+      <textarea id="input" placeholder="Paste JSON here..."></textarea>
+
+    </div>
+    <button onclick="formatJSON()">Format JSON</button>
+    <div class="box">
+
+      <textarea id="output" placeholder="Formatted JSON will appear here..." readonly></textarea>
+    </div>
+    <p id="error"></p>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
